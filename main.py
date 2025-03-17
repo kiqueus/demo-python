@@ -4,7 +4,7 @@ import paquete2.moduloB
 #from paquete2 import moduloB
 
 
-print ("Hola mundo")
+print ("Hola mundos")
 
 print(f"__name__: {__name__}")
 
